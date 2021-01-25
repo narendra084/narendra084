@@ -1,41 +1,39 @@
 ### Hi there 👋
 
 <!--
-**Rajput-Blaze/Rajput-Blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**narendra084/narendra084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there, I'm  [Vishwajeet Singh] 👋
+### Hi there, I'm  [Narendra] 👋
 
-## I'm a 😍😍 Full Stack developer/ 😍😍!
+## I'm a 😍😍 Flutter developer/ 😍😍!
 - 🔭 I’m currently Pursuing B.tech In[Sagar Institute of Science and Technology][https://www.sistec.ac.in/]!
-- 🥅 2020 Goals: Learn React, React Native,  Node
-- 👯 I’m looking to collaborate on ...React.js Projects
-- 💬 Ask me about ...Web Development with React js 
+- 🥅 2020 Goals: Learn Dart,Flutter,Android 
+- 👯 I’m looking to collaborate on ...Flutter Projects
+- 💬 Ask me about ...Mobile App's Development with Flutter & Android 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I love to Explore the world 
-## Programming language
+^^ Programming language
    - c(basic)
    - c++(basic)
    - python(intermediate)
-   - javaScript(proficient)
+   - Dart(proficient)
                        
- ### Front-end
-  - React.js (UI-Library)
-  - redux/react-redux(library)
-  - react-router-dom(Library)
-  - Bootstrap(CSS framework )
+ ^^^ Front-end
+  - Flutter
+  - Android Studio
   
-### Back-end
+^^^ Back-end
   - Node.js
   - Expres.js
 
-###  Database
+^^^ Database
   - Mysql
           
        
      
-### Connect with me:
+^^^ Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vishwajeet-singh-rajput/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/narendra-38b5ba168/) 
 
 
 <br />
