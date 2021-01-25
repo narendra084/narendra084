@@ -24,8 +24,8 @@
   - Android Studio
   
 ^^^ Back-end
-  - Node.js
-  - Expres.js
+  - JAVA
+  - Dart
 
 ^^^ Database
   - Mysql
@@ -80,10 +80,3 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/pin/?username=Rajput-Blaze&repo=RestFul_api&layout=compact&theme=radical&card_width=500)](https://github.com/Rajput-Blaze/RestFul_api)
 
-
-[twitter]: https://vishwajeet.tech/
-[linkedin]: https://vishwajeet.tech/
-[webdevplaylist]: https://vishwajeet.tech/
-[jsplaylist]: https://vishwajeet.tech/
-[cssplaylist]: https://vishwajeet.tech/
-[reactplaylist]: https://vishwajeet.tech/
